@@ -1,7 +1,7 @@
 -- 1. Remove Duplicates
 -- 2. Standardize the data
 -- 3. NULL values or blank columns
--- 4. Remove any columns 
+-- 4. Remove any columns or rows
 
 -- We wil perform operations and data cleaning on a new table
 CREATE TABLE layoffs_staging
